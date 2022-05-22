@@ -5,7 +5,7 @@ jucubox님이 의뢰(외주)하신 게임봇입니다.
 `@jucubox#1501`
 
 ## 제작요청내용[Contents of production request]
-1. 정보를 저장하고 간단한 덧샘 뺄샘을 이용한 이벤트트봇 
+1. 정보를 저장하고 간단한 덧샘 뺄샘을 이용한 이벤트봇 
 
 ## 제작내용[Production contents]
 > 1. `?join` : 가입을 진행합니다.
